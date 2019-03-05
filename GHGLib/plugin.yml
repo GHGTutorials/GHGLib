@@ -1,0 +1,5 @@
+name: GHGLib
+main: me.ghg.main.GHGLib
+version: 1.0
+author: GHG
+api-version: 1.13
